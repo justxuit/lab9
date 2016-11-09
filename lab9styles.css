@@ -1,0 +1,34 @@
+@font-face {
+	font-family: pixel;
+	src: url(fontstyles/pixelmix.ttf);
+}
+
+body {
+	font-family: monospace;
+	color: #f2f2f2;
+	background-color: #1c2324;
+}
+
+
+/*NAVBAR*/
+
+div {
+	width: 300px;
+	margin: 30px auto;
+	font-family: pixel;
+	background-color: #212a2b;
+	font-size: 1em;
+	padding: 5px;
+}
+
+li {
+	display: block;
+	margin: 30px auto;
+	width: 250px;
+	padding: 10px;
+}
+
+a {
+	color: #f2f2f2;
+	text-decoration: none;
+}
